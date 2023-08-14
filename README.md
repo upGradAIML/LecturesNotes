@@ -2,9 +2,10 @@
 Lecture Notes for all AI/ML Executive Post Graduate Program.
 
 Included mandatory courses only.
-- Basic Machine Learning
-- Machine Learning 2
-- Deep Learning
+1. Statistics Essentials
+2. Machine Learning 1
+3. Machine Learning 2
+4. Deep Learning
 
 Continuously updated.ss
 

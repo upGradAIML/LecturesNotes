@@ -6,7 +6,8 @@ Included mandatory courses only.
 2. Machine Learning 1
 3. Machine Learning 2
 4. Deep Learning
+5. NLP
 
-Continuously updated.ss
+Continuously updated.
 
 https://www.upgrad.com/sa/masters-machine-learning-ai-liverpool-john-moores-university-ljmu/
